@@ -18,7 +18,7 @@
    ![code_edit](https://github.com/user-attachments/assets/4f456e83-90fe-457c-a1e7-1cc46f336861)
 
 
-5) SEE CODE- **ADD LINK HERE**
+5) See file: https://github.com/1075515/reproducible-research_homework/blob/main/question-5-code.R
 
    a) The table has 33 rows and 13 columns. 
 
@@ -30,7 +30,7 @@
    
       In Table 2 of the paper, the allometric exponent (β) was 1.52 and the scaling factor (α) was 1182. When rounded, the values I found (1.5152 for β and 1181.807 for α) are consistent with those found in Table 2. 
 
-   d) _See question-5-code.R_
+   d) See: https://github.com/1075515/reproducible-research_homework/blob/main/question-5-code.R
    
    e) The estimated volume of a 300kb dsDNA virus is 6,697,006 nm^3 (_See question-5-code.R for workings_)
 
